@@ -89,35 +89,7 @@ RSS feed: https://medium.com/feed/@hayagriva99999
 
 
 ***
-
-## Auto-update Medium posts (optional)
-
-Create this workflow file in your profile repo:
-
-Path: `.github/workflows/blog-post-workflow.yml`
-
-```yml
-name: Latest Medium posts
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  update-readme-with-blog:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://medium.com/feed/@hayagriva99999"
-          max_post_count: 5
-          readme_path: "README.md"
-          commit_message: "chore: update latest Medium posts"
-```
-
-<!-- Source note (not rendered): Action approach referenced from:  --> [whitep4nth3r](https://whitep4nth3r.com/blog/how-to-github-actions-contentful-webhooks-to-show-latest-blog-posts-readme/)
-
+feed_list: "https://medium.com/feed/@hayagriva99999"
 ***
 
 ## Connect
