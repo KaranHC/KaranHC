@@ -66,12 +66,12 @@ Medium: https://medium.com/@hayagriva99999
 
 ### ⭐ Featured posts (curated)
 
-- [Unlocking Python’s Concurrency Superpowers: Multiprocessing, Multithreading, and Asyncio]((https://medium.com/@hayagriva99999/unlocking-pythons-concurrency-superpowers-multiprocessing-multithreading-and-asyncio-4948d6e82461))
-- [The Art and Science of Prompt Engineering: SOTA Approaches and Real-World Applications](PASTE_MEDIUM_LINK_HERE)
-- [Building an AI-Powered Stock Analysis Platform: A Deep Dive into Multi-Agent Financial Intelligence…](PASTE_MEDIUM_LINK_HERE)
-- [LangGraph: Powering the Next Generation of AI Agents (Part 1)](PASTE_MEDIUM_LINK_HERE)
-- [Building a Powerful SQL Agent with LangGraph: A Step-by-Step Guide (Part 2)](PASTE_MEDIUM_LINK_HERE)
-- [Finetune Gemma-2b for Text to SQL](PASTE_MEDIUM_LINK_HERE)
+- [Unlocking Python’s Concurrency Superpowers: Multiprocessing, Multithreading, and Asyncio](https://medium.com/@hayagriva99999/unlocking-pythons-concurrency-superpowers-multiprocessing-multithreading-and-asyncio-4948d6e82461)
+- [The Art and Science of Prompt Engineering: SOTA Approaches and Real-World Applications](https://medium.com/@hayagriva99999/the-art-and-science-of-prompt-engineering-sota-approaches-and-real-world-applications-8e6bbf2786e1)
+- [Building an AI-Powered Stock Analysis Platform: A Deep Dive into Multi-Agent Financial Intelligence…](https://medium.com/@hayagriva99999/building-an-ai-powered-stock-analysis-platform-a-deep-dive-into-multi-agent-financial-intelligence-ae9fb045ce41)
+- [LangGraph: Powering the Next Generation of AI Agents (Part 1)](https://medium.com/@hayagriva99999/langgraph-powering-the-next-generation-of-ai-agents-part-1-8c8cfde98cb5)
+- [Building a Powerful SQL Agent with LangGraph: A Step-by-Step Guide (Part 2)](https://medium.com/@hayagriva99999/building-a-powerful-sql-agent-with-langgraph-a-step-by-step-guide-part-2-24e818d47672)
+- [LoRA And QLoRA: An Efficient Approach to Fine-tuning Large Models Under the hood](https://medium.com/@hayagriva99999/lora-and-qlora-an-efficient-approach-to-fine-tuning-large-models-under-the-hood-948468424cd6)
 
 
 ### Latest posts (auto-updated)
