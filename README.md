@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <a href="mailto:hayagriva99999@gmail.com"><img src="https://img.shields.io/badge/Email-hayagriva99999%40gmail.com-red?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/srikaran-h-c659b29112"><img src="https://img.shields.io/badge/LinkedIn-SriKaran%20H%20C-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/srikaran-h-c659b29112](https://www.linkedin.com/in/srikaran-h-c-659b29112/)"><img src="https://img.shields.io/badge/LinkedIn-SriKaran%20H%20C-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@hayagriva99999"><img src="https://img.shields.io/badge/Medium-@hayagriva99999-000000?style=flat&logo=medium&logoColor=white" /></a>
 </p>
 
