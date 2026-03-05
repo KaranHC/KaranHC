@@ -62,7 +62,6 @@ I have architectected production-ready AI/ML systems across HR, FMCG, and Bankin
 
 Medium: https://medium.com/@hayagriva99999
 
-### Featured posts (curated)
 
 ### ⭐ Featured posts (curated)
 
