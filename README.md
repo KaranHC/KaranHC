@@ -22,7 +22,7 @@
 
 ## 🔭 About me
 
-I have architectected production-ready AI/ML systems across HR, FMCG, and Banking. I specialize in end-to-end LLM applications, advanced RAG architectures, and multi-agent systems—optimized for quality, latency, and cost. Reduce inference cost by ~35% using caching/monitoring strategies with strong focus on LLM evaluation, observability, and MLOps/LLMOps best practices
+I have architectected production-ready AI/ML systems across HR, FMCG, and Banking. I specialize in end-to-end LLM applications, advanced RAG architectures, and multi-agent systems—optimized for quality, latency, and cost. Reduce inference cost using caching/monitoring strategies with strong focus on LLM evaluation, observability, and MLOps/LLMOps best practices
 
 
 ---
