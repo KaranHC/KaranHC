@@ -72,21 +72,6 @@ Medium: https://medium.com/@hayagriva99999
 
 RSS feed: https://medium.com/feed/@hayagriva99999
 
-***
-
-## GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaranHC&show_icons=true&hide_title=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranHC&layout=compact" height="150" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranHC" height="170" />
-</p>
-
-***
-
 
 ***
 feed_list: "https://medium.com/feed/@hayagriva99999"
