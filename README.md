@@ -2,10 +2,9 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&center=true&vCenter=true&width=900&lines=Senior+Data+Scietist+and+Databricks+Certified+Machine+Learning+Professional; alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&center=true&vCenter=true&width=900&lines=Snior+Data+Scietist+and+Databricks+Certified+Machine+Learning+Professional;6%2B+years+building+production-ready+AI%2FML+systems;LLM+Apps+%7C+Advanced+RAG+%7C+Multi-Agent+Workflows;Fine-tuning%3A+Gemma+%7C+Phi+%7C+Llama;LLMOps%3A+cost+%2F+latency+%2F+quality+%2F+monitoring" alt="Typing SVG" />
   </a>
 </p>
-
 <p align="center">
   <a href="mailto:hayagriva99999@gmail.com"><img src="https://img.shields.io/badge/Email-hayagriva99999%40gmail.com-red?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/srikaran-h-c659b29112"><img src="https://img.shields.io/badge/LinkedIn-SriKaran%20H%20C-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
