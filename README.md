@@ -1,16 +1,169 @@
-## Hi there 👋
+<!-- Source notes (not rendered): Profile README repo naming rules:   --> [github](https://github.com/chethanuk/chethanuk)
+<!-- Source notes (not rendered): Medium profile used to pick featured post titles:  -->
+<!-- Source notes (not rendered): Blog-post workflow action idea:  --> [whitep4nth3r](https://whitep4nth3r.com/blog/how-to-github-actions-contentful-webhooks-to-show-latest-blog-posts-readme/)
 
-<!--
-**KaranHC/KaranHC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Karan (SriKaran H C)</h1>
+<h3 align="center">LLM / RAG / Agentic AI -  ML Engineering -  Bengaluru, India</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:hayagriva99999@gmail.com"><img src="https://img.shields.io/badge/Email-hayagriva99999%40gmail.com-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/srikaran-h-c659b29112"><img src="https://img.shields.io/badge/LinkedIn-SriKaran%20H%20C-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@hayagriva99999"><img src="https://img.shields.io/badge/Medium-@hayagriva99999-000000?style=flat&logo=medium&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KaranHC&label=Profile%20views&color=0e75b6&style=flat" alt="KaranHC" />
+  <img src="https://img.shields.io/github/followers/KaranHC?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/KaranHC?label=Total%20Stars&style=flat" />
+  <img src="https://img.shields.io/badge/Focus-RAG%20%7C%20Agents%20%7C%20LLMOps-2ea44f?style=flat" />
+</p>
+
+***
+
+## About me
+
+- Databricks Certified Machine Learning Professional with 6+ years building production-ready AI/ML systems.
+- I build LLM applications with a focus on retrieval quality, observability, and cost/latency tradeoffs.
+- Interests: advanced RAG, agent orchestration, evaluation, and ML/LLMOps.
+
+***
+
+## Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,fastapi,postgres,redis,docker,kubernetes,azure,git,githubactions,linux&perline=8" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0A7FFF?style=flat" />
+  <img src="https://img.shields.io/badge/LangChain-1f2937?style=flat" />
+  <img src="https://img.shields.io/badge/LangGraph-1f6feb?style=flat" />
+  <img src="https://img.shields.io/badge/VectorDB-Qdrant-e64a19?style=flat" />
+</p>
+
+***
+
+## Featured repositories
+
+- RAG — https://github.com/KaranHC/RAG
+- test-remote-mcp-server — https://github.com/KaranHC/test-remote-mcp-server
+- claude_projects — https://github.com/KaranHC/claude_projects
+- databricks_bundle — https://github.com/KaranHC/databricks_bundle
+- NLP — https://github.com/KaranHC/NLP
+- videcoding — https://github.com/KaranHC/videcoding
+
+***
+
+## Diagrams
+
+### RAG pipeline (high-level)
+
+```mermaid
+flowchart LR
+  U[User / App] --> Q[Query]
+  Q --> HY[Hybrid Retrieval\n(keyword + vector)]
+  HY --> V[(Vector DB)]
+  V --> CH[Candidate chunks]
+  CH --> RR[Rerank + Filters]
+  RR --> CTX[Context Builder\n(parent + metadata)]
+  CTX --> LLM[LLM]
+  LLM --> A[Answer]
+  A --> OBS[LLMOps\ntraces, evals, cost, latency]
+```
+
+### Agent workflow (supervisor + tools)
+
+```mermaid
+flowchart TB
+  S[Supervisor / Router] --> R[Research Agent]
+  S --> T[Tool Agent / MCP]
+  S --> D[Data Agent]
+  S --> V[Validation Agent]
+  R --> Y[Synthesis]
+  T --> Y
+  D --> Y
+  V --> Y
+  Y --> O[Final Output]
+```
+
+***
+
+## Writing (Medium)
+
+Medium: https://medium.com/@hayagriva99999
+
+### Featured posts (curated)
+
+- Unlocking Python’s Concurrency Superpowers: Multiprocessing, Multithreading, and Asyncio
+- The Art and Science of Prompt Engineering: SOTA Approaches and Real-World Applications
+- Building an AI-Powered Stock Analysis Platform: A Deep Dive into Multi-Agent Financial Intelligence…
+- LangGraph: Powering the Next Generation of AI Agents (Part 1)
+- Building a Powerful SQL Agent with LangGraph: A Step-by-Step Guide (Part 2)
+- Finetune Gemma-2b for Text to SQL
+
+### Latest posts (auto-updated)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+RSS feed: https://medium.com/feed/@hayagriva99999
+
+***
+
+## GitHub stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaranHC&show_icons=true&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranHC&layout=compact" height="150" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranHC" height="170" />
+</p>
+
+***
+
+## Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=KaranHC&theme=flat&no-frame=true&row=1&column=6" />
+</p>
+
+***
+
+## Auto-update Medium posts (optional)
+
+Create this workflow file in your profile repo:
+
+Path: `.github/workflows/blog-post-workflow.yml`
+
+```yml
+name: Latest Medium posts
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://medium.com/feed/@hayagriva99999"
+          max_post_count: 5
+          readme_path: "README.md"
+          commit_message: "chore: update latest Medium posts"
+```
+
+<!-- Source note (not rendered): Action approach referenced from:  --> [whitep4nth3r](https://whitep4nth3r.com/blog/how-to-github-actions-contentful-webhooks-to-show-latest-blog-posts-readme/)
+
+***
+
+## Connect
+
+- Email: hayagriva99999@gmail.com
+- LinkedIn: https://www.linkedin.com/in/srikaran-h-c659b29112
+- Medium: https://medium.com/@hayagriva99999
