@@ -87,11 +87,6 @@ RSS feed: https://medium.com/feed/@hayagriva99999
 
 ***
 
-## Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=KaranHC&theme=flat&no-frame=true&row=1&column=6" />
-</p>
 
 ***
 
