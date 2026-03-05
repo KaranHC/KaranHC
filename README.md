@@ -20,11 +20,10 @@
 
 ***
 
-## About me
+## 🔭 About me
 
-- Databricks Certified Machine Learning Professional with 6+ years building production-ready AI/ML systems.
-- I build LLM applications with a focus on retrieval quality, observability, and cost/latency tradeoffs.
-- Interests: advanced RAG, agent orchestration, evaluation, and ML/LLMOps.
+I have architectected production-ready AI/ML systems across HR, FMCG, and Banking. I specialize in end-to-end LLM applications, advanced RAG architectures, and multi-agent systems—optimized for quality, latency, and cost. Reduce inference cost by ~35% using caching/monitoring strategies with strong focus on LLM evaluation, observability, and MLOps/LLMOps best practices
+
 
 ***
 
