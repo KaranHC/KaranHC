@@ -1,7 +1,3 @@
-<!-- Source notes (not rendered): Profile README repo naming rules:   --> [github](https://github.com/chethanuk/chethanuk)
-<!-- Source notes (not rendered): Medium profile used to pick featured post titles:  -->
-<!-- Source notes (not rendered): Blog-post workflow action idea:  --> [whitep4nth3r](https://whitep4nth3r.com/blog/how-to-github-actions-contentful-webhooks-to-show-latest-blog-posts-readme/)
-
 <h1 align="center">Hi, I'm Karan (SriKaran H C)</h1>
 <h3 align="center">LLM / RAG / Agentic AI -  ML Engineering -  Bengaluru, India</h3>
 
