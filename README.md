@@ -64,12 +64,15 @@ Medium: https://medium.com/@hayagriva99999
 
 ### Featured posts (curated)
 
-- Unlocking Python’s Concurrency Superpowers: Multiprocessing, Multithreading, and Asyncio
-- The Art and Science of Prompt Engineering: SOTA Approaches and Real-World Applications
-- Building an AI-Powered Stock Analysis Platform: A Deep Dive into Multi-Agent Financial Intelligence…
-- LangGraph: Powering the Next Generation of AI Agents (Part 1)
-- Building a Powerful SQL Agent with LangGraph: A Step-by-Step Guide (Part 2)
-- Finetune Gemma-2b for Text to SQL
+### ⭐ Featured posts (curated)
+
+- [Unlocking Python’s Concurrency Superpowers: Multiprocessing, Multithreading, and Asyncio]((https://medium.com/@hayagriva99999/unlocking-pythons-concurrency-superpowers-multiprocessing-multithreading-and-asyncio-4948d6e82461))
+- [The Art and Science of Prompt Engineering: SOTA Approaches and Real-World Applications](PASTE_MEDIUM_LINK_HERE)
+- [Building an AI-Powered Stock Analysis Platform: A Deep Dive into Multi-Agent Financial Intelligence…](PASTE_MEDIUM_LINK_HERE)
+- [LangGraph: Powering the Next Generation of AI Agents (Part 1)](PASTE_MEDIUM_LINK_HERE)
+- [Building a Powerful SQL Agent with LangGraph: A Step-by-Step Guide (Part 2)](PASTE_MEDIUM_LINK_HERE)
+- [Finetune Gemma-2b for Text to SQL](PASTE_MEDIUM_LINK_HERE)
+
 
 ### Latest posts (auto-updated)
 
