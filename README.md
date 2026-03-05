@@ -25,23 +25,26 @@
 I have architectected production-ready AI/ML systems across HR, FMCG, and Banking. I specialize in end-to-end LLM applications, advanced RAG architectures, and multi-agent systems—optimized for quality, latency, and cost. Reduce inference cost by ~35% using caching/monitoring strategies with strong focus on LLM evaluation, observability, and MLOps/LLMOps best practices
 
 
-***
+---
 
-## Tech stack
+## 🧰 Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,fastapi,postgres,redis,docker,kubernetes,azure,git,githubactions,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,js,docker,kubernetes,azure,git,githubactions,linux&perline=8" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-0A7FFF?style=flat" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=000" />
   <img src="https://img.shields.io/badge/LangChain-1f2937?style=flat" />
   <img src="https://img.shields.io/badge/LangGraph-1f6feb?style=flat" />
   <img src="https://img.shields.io/badge/VectorDB-Qdrant-e64a19?style=flat" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
 </p>
 
-***
+---
 
 ## Featured repositories
 
