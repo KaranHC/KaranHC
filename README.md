@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&center=true&vCenter=true&width=900&lines=Senior+Data+Scietist+and+Databricks+Certified+ML+Professional;Fine-tuning%3A+Gemma+%7C+Phi+%7C+Llama;LLMOps%3A+cost+%2F+latency+%2F+quality+%2F+monitoring" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&center=true&vCenter=true&width=900&lines=Senior+Data+Scientist+and+Databricks+Certified+ML+Professional" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
