@@ -51,39 +51,6 @@
 
 ***
 
-## Diagrams
-
-### RAG pipeline (high-level)
-
-```mermaid
-flowchart LR
-  U[User / App] --> Q[Query]
-  Q --> HY[Hybrid Retrieval\n(keyword + vector)]
-  HY --> V[(Vector DB)]
-  V --> CH[Candidate chunks]
-  CH --> RR[Rerank + Filters]
-  RR --> CTX[Context Builder\n(parent + metadata)]
-  CTX --> LLM[LLM]
-  LLM --> A[Answer]
-  A --> OBS[LLMOps\ntraces, evals, cost, latency]
-```
-
-### Agent workflow (supervisor + tools)
-
-```mermaid
-flowchart TB
-  S[Supervisor / Router] --> R[Research Agent]
-  S --> T[Tool Agent / MCP]
-  S --> D[Data Agent]
-  S --> V[Validation Agent]
-  R --> Y[Synthesis]
-  T --> Y
-  D --> Y
-  V --> Y
-  Y --> O[Final Output]
-```
-
-***
 
 ## Writing (Medium)
 
